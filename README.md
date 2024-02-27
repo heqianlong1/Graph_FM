@@ -3,4 +3,3 @@ This is the core code of the reference: Qianlong H ,Feng Z ,Linyan G ,Zhibin Y.A
 
 - Graph_gcForest is implemented using the TensorFlow framework.
 - Graph_DNNs are implemented using the PyTorch framework.
-[paper]([http://example.com](https://www.sciencedirect.com/science/article/abs/pii/S0031320313005232)https://www.sciencedirect.com/science/article/abs/pii/S0031320313005232)
